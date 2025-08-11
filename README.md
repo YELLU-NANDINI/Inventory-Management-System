@@ -93,7 +93,3 @@ inventory-list li {
 inventory-list li:last-child {
     border-bottom: none;
 }
-
-Note that this is a basic example and can be extended to include more features like item categories, pricing, and more.
-
-Let me know if you need any modifications or additional functionality!
